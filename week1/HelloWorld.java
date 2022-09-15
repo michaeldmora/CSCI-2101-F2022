@@ -1,6 +1,6 @@
-package Test;   
+package week1;   
 
-public class test {
+public class HelloWorld {
 
 public static void main(String[] args){
 
