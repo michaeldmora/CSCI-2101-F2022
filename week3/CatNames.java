@@ -16,6 +16,9 @@ public class CatNames {
         System.out.println(cat.getCat2());
         System.out.println(cat.getCatPublic());
 
+        cat.catPublic = "Poopsie";
+        System.out.println(cat.catPublic);
+
     }
 
 }
